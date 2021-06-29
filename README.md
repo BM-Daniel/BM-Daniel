@@ -2,9 +2,6 @@
 I am currently a learner in programming languages from Ghana
 
 
-**BM-Daniel/BM-Daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on simple projects involving Web development, C programming and MATLAB and hope to do more after my learning
 
