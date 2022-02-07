@@ -3,9 +3,9 @@ I am currently a learner in programming languages from Ghana
 
 
 
-- 🔭 I’m currently working on simple projects involving Web development, C programming and MATLAB and hope to do more after my learning
+- 🔭 I’m currently working on simple projects involving Web Development, C programming and hope to do more after my learning
 
-- 🌱 I’m currently learning Python, C Programming and Web development in depth
+- 🌱 I’m currently learning Web development (Front-end at the moment) in depth
 <br>
 
 
